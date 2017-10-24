@@ -1,12 +1,14 @@
 # Arduino-Bluetooth-Remote-Control
 Arduino bluetooth control
 
+```
+Example codes are in file arduinobluetooth.ino
+```
 
 ## Google Play Store Android App
 
 https://play.google.com/store/apps/details?id=com.hamzaburakhan.btremotecontrolarduino
 
-Example codes are in file arduinobluetooth.ino
 ### Data structure
 
 ```ruby

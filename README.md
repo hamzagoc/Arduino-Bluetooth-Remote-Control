@@ -6,9 +6,8 @@ Arduino bluetooth control
 
 https://play.google.com/store/apps/details?id=com.hamzaburakhan.btremotecontrolarduino
 
-### Prerequisites
-
-What things you need to install the software and how to install them
+Example codes are in file arduinobluetooth.ino
+### Data structure
 
 ```ruby
 struct SensorValue {
